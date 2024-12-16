@@ -8,4 +8,3 @@ export default function Home() {
   );
 }
 
-//Car Showcase timestamp 7 minutes 55 seconds
